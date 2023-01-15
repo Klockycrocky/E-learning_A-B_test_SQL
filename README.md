@@ -1,5 +1,5 @@
 # Final_project_2_var.  
-The task was provided by the educational platform "Karpov Course" DA
+The task was provided by the educational platform "Karpov Course" DA  
 А/Б тест, SQL (ClickHouse), использование функций python, библиотек pandas, numpy, seaborn и др.
 
 
